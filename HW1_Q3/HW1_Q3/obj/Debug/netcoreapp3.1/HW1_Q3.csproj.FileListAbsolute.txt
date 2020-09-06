@@ -1,0 +1,13 @@
+D:\.Desktop Folders\School Papers\Fall 2020\ECE 2310\HW1_Q3\HW1_Q3\bin\Debug\netcoreapp3.1\HW1_Q3.exe
+D:\.Desktop Folders\School Papers\Fall 2020\ECE 2310\HW1_Q3\HW1_Q3\bin\Debug\netcoreapp3.1\HW1_Q3.deps.json
+D:\.Desktop Folders\School Papers\Fall 2020\ECE 2310\HW1_Q3\HW1_Q3\bin\Debug\netcoreapp3.1\HW1_Q3.runtimeconfig.json
+D:\.Desktop Folders\School Papers\Fall 2020\ECE 2310\HW1_Q3\HW1_Q3\bin\Debug\netcoreapp3.1\HW1_Q3.runtimeconfig.dev.json
+D:\.Desktop Folders\School Papers\Fall 2020\ECE 2310\HW1_Q3\HW1_Q3\bin\Debug\netcoreapp3.1\HW1_Q3.dll
+D:\.Desktop Folders\School Papers\Fall 2020\ECE 2310\HW1_Q3\HW1_Q3\bin\Debug\netcoreapp3.1\HW1_Q3.pdb
+D:\.Desktop Folders\School Papers\Fall 2020\ECE 2310\HW1_Q3\HW1_Q3\obj\Debug\netcoreapp3.1\HW1_Q3.csprojAssemblyReference.cache
+D:\.Desktop Folders\School Papers\Fall 2020\ECE 2310\HW1_Q3\HW1_Q3\obj\Debug\netcoreapp3.1\HW1_Q3.AssemblyInfoInputs.cache
+D:\.Desktop Folders\School Papers\Fall 2020\ECE 2310\HW1_Q3\HW1_Q3\obj\Debug\netcoreapp3.1\HW1_Q3.AssemblyInfo.cs
+D:\.Desktop Folders\School Papers\Fall 2020\ECE 2310\HW1_Q3\HW1_Q3\obj\Debug\netcoreapp3.1\HW1_Q3.csproj.CoreCompileInputs.cache
+D:\.Desktop Folders\School Papers\Fall 2020\ECE 2310\HW1_Q3\HW1_Q3\obj\Debug\netcoreapp3.1\HW1_Q3.dll
+D:\.Desktop Folders\School Papers\Fall 2020\ECE 2310\HW1_Q3\HW1_Q3\obj\Debug\netcoreapp3.1\HW1_Q3.pdb
+D:\.Desktop Folders\School Papers\Fall 2020\ECE 2310\HW1_Q3\HW1_Q3\obj\Debug\netcoreapp3.1\HW1_Q3.genruntimeconfig.cache
